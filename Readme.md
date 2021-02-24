@@ -1,6 +1,6 @@
 # TS Node Server
 
-A node server written in [Typescript](https://www.typescriptlang.org/) [with Sequelize ORM](https://sequelize.org/master/) for database integration.
+A node server written in [Typescript](https://www.typescriptlang.org/) with [Sequelize ORM](https://sequelize.org/master/) for database integration.
 
 ## Installation
 
